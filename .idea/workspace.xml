@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c51b6de-b2b1-4040-a414-f708bb98e47b" name="Changes" comment="update v1" />
+    <list default="true" id="0c51b6de-b2b1-4040-a414-f708bb98e47b" name="Changes" comment="update v1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/obd_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obd_reader_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/obd_reader_gui.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Korbin101lee"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Korbin101lee&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Korbin101lee/OBD2-Rasp-Pi",
-    "accountId": "04dc3859-cc43-47de-ad1c-92af3e984b7e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Korbin101lee/OBD2-Rasp-Pi&quot;,
+    &quot;accountId&quot;: &quot;04dc3859-cc43-47de-ad1c-92af3e984b7e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -96,7 +101,8 @@
       <workItem from="1721959045119" duration="136000" />
       <workItem from="1721959193498" duration="10523000" />
       <workItem from="1722095168998" duration="800000" />
-      <workItem from="1722139413177" duration="13388000" />
+      <workItem from="1722139413177" duration="14044000" />
+      <workItem from="1722400102637" duration="3864000" />
     </task>
     <task id="LOCAL-00001" summary="update v1">
       <option name="closed" value="true" />
@@ -106,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722320584109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update v1">
+      <option name="closed" value="true" />
+      <created>1722320770372</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722320770372</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +131,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update v1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/OBDReader$main.coverage" NAME="main Coverage Results" MODIFIED="1722320547824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OBDReader$main.coverage" NAME="main Coverage Results" MODIFIED="1722403647000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

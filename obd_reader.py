@@ -194,13 +194,19 @@ class OBDReader:
             "speed": self.latest_speed,
             "rpm": self.latest_rpm,
             "engine_load": self.latest_engine_load,
-            "coolant_temp": self.latest_coolant_temp,
             "fuel_pressure": self.latest_fuel_pressure,
-            "timing_advance": self.latest_timing_advance,
+            "egr_error": self.latest_egr_error,
+            "fuel_level": self.latest_fuel_level,
+            "coolant_temp": self.latest_coolant_temp,
             "intake_temp": self.latest_intake_temp,
+            "run_time": self.latest_run_time,
             "air_flow_rate": self.latest_air_flow_rate,
+            "barometric_pressure": self.latest_barometric_pressure,
+            "command_egr": self.latest_commanded_egr,
             "throttle_position": self.latest_throttle_pos,
-            "run_time": self.latest_run_time
+            "timing_advance": self.latest_timing_advance,
+            "evaporative_purge": self.latest_evaporative_purge,
+            "evap_vapor_pressure": self.latest_evap_vapor_pressure,
         }
 
     def close_connection(self):
