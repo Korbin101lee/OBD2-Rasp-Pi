@@ -24,7 +24,7 @@ This project connects to your car's OBD-2 port using a Raspberry Pi and retrieve
 ### Steps
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/obd-reader.git
+    git clone https://github.com/Korbin101lee/obd-reader.git
     cd obd-reader
     ```
 
